@@ -738,8 +738,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/home/voozen/C/num/cmake-build-debug",
-		"source" : "/home/voozen/C/num"
+		"build" : "/home/voozen/C/github/numcpp/cmake-build-debug",
+		"source" : "/home/voozen/C/github/numcpp"
 	},
 	"version" : 
 	{
